@@ -6,7 +6,7 @@
   <link href="https://berserker-god.github.io/atom.xml" rel="self"/>
   
   <link href="https://berserker-god.github.io/"/>
-  <updated>2022-05-16T11:35:10.000Z</updated>
+  <updated>2022-05-18T05:58:23.181Z</updated>
   <id>https://berserker-god.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://berserker-god.github.io/2022/05/17/%E4%B8%89%E4%B8%AA%E8%A6%81%E6%B1%82/"/>
     <id>https://berserker-god.github.io/2022/05/17/%E4%B8%89%E4%B8%AA%E8%A6%81%E6%B1%82/</id>
     <published>2022-05-17T14:53:57.365Z</published>
-    <updated>2022-05-16T11:35:10.000Z</updated>
+    <updated>2022-05-18T05:58:23.181Z</updated>
     
     <content type="html"><![CDATA[<h2 id="辅助使用前的三个要求（必备）"><a href="#辅助使用前的三个要求（必备）" class="headerlink" title="辅助使用前的三个要求（必备）"></a><strong>辅助使用前的三个要求（必备）</strong></h2><h3 id="第一个要求：安装微软运行库"><a href="#第一个要求：安装微软运行库" class="headerlink" title="第一个要求：安装微软运行库"></a><strong>第一个要求：安装微软运行库</strong></h3><h4 id="小埋安装器属于第三方安装器-目的是为了方便玩家-集合了菜单的下载-x2F-注入-x2F-更新-并且在安装菜单的同时会自动安装一些脚本（Lua-拓展功能-当然前提是可以支持Lua的菜单"><a href="#小埋安装器属于第三方安装器-目的是为了方便玩家-集合了菜单的下载-x2F-注入-x2F-更新-并且在安装菜单的同时会自动安装一些脚本（Lua-拓展功能-当然前提是可以支持Lua的菜单" class="headerlink" title="小埋安装器属于第三方安装器 目的是为了方便玩家 集合了菜单的下载&#x2F;注入&#x2F;更新 并且在安装菜单的同时会自动安装一些脚本（Lua-拓展功能} 当然前提是可以支持Lua的菜单"></a><strong>小埋安装器属于第三方安装器 目的是为了方便玩家 集合了菜单的下载&#x2F;注入&#x2F;更新 并且在安装菜单的同时会自动安装一些脚本（Lua-拓展功能} 当然前提是可以支持Lua的菜单</strong></h4><p><strong>利用小埋安装器可以安装最新的运行库</strong></p><p><strong>小埋安装器下载链接：<a href="https://xiao-mai.lanzouw.com/xiao-mai">https://xiao-mai.lanzouw.com/xiao-mai</a></strong></p><p><strong>下载双击打开安装器</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923721.png"></p><p><strong>点击运行库安装后 点确定  然后等待下载完毕后 安装程序会自动打开</strong>  </p><p><strong>第一次下载需要几分钟（具体时间看你的网速）</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923722.png"></p><p><strong>然后全部点下一步就行了 等待安装完毕</strong> </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923732.png"></p><h3 id="第二个要求：关闭杀毒和防火墙"><a href="#第二个要求：关闭杀毒和防火墙" class="headerlink" title="第二个要求：关闭杀毒和防火墙"></a><strong>第二个要求：关闭杀毒和防火墙</strong></h3><p><strong>可以参考百度经验：</strong></p><p><strong>win10系统如何关掉自带的杀毒：<a href="https://jingyan.baidu.com/article/fec4bce27cde1ab3608d8b02.html">https://jingyan.baidu.com/article/fec4bce27cde1ab3608d8b02.html</a></strong></p><p><strong>win10系统如何关掉防火墙：<a href="https://jingyan.baidu.com/article/9158e0003332a7e3541228c9.html">https://jingyan.baidu.com/article/9158e0003332a7e3541228c9.html</a></strong></p><h3 id="第三个要求：调好游戏设置"><a href="#第三个要求：调好游戏设置" class="headerlink" title="第三个要求：调好游戏设置"></a><strong>第三个要求：调好游戏设置</strong></h3><p><strong>打开GTA5  进入游戏后 打开设置（快捷键：ESC）</strong></p><p><strong>按照下图操作：</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923739.png"></p>]]></content>
     
@@ -34,125 +34,23 @@
     
     
     
-    <category term="必备" scheme="https://berserker-god.github.io/tags/%E5%BF%85%E5%A4%87/"/>
-    
   </entry>
   
   <entry>
-    <title>Kevin</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Kevin/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Kevin/</id>
-    <published>2022-05-14T10:57:24.000Z</published>
-    <updated>2022-05-14T10:57:26.000Z</updated>
+    <title>幻影（phantom）</title>
+    <link href="https://berserker-god.github.io/2022/05/17/%E5%B9%BB%E5%BD%B1%EF%BC%88phantom%EF%BC%89/"/>
+    <id>https://berserker-god.github.io/2022/05/17/%E5%B9%BB%E5%BD%B1%EF%BC%88phantom%EF%BC%89/</id>
+    <published>2022-05-17T14:53:57.362Z</published>
+    <updated>2022-05-18T06:55:28.633Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>XiPro</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Xipro/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Xipro/</id>
-    <published>2022-05-14T10:57:08.000Z</published>
-    <updated>2022-05-17T07:38:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>本次注册激活需要在XiPro软件上进行</p><p>XiPro软件下载地址：<a href="https://wwr.lanzoui.com/b02ib4hng">https://wwr.lanzoui.com/b02ib4hng</a></p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170045449.png"></p><p>下载 解压出来 打开 <strong>XiPro.exe</strong> (后缀名为exe的应用程序)</p><p>点击 <strong>注册账号</strong></p><p>如图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051512.png"></p><p>按提示填写注册即可</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051513.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051514.png"></p><p>激活码为在卡网购买的卡密  复制粘贴进去即可  账号即你刚刚在辅助上面注册的账号 千万别填错 </p><p>卡密是一次性的  充错了就没了</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051515.png"></p><p><strong>注册激活到此结束</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170057986.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170057987.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击注入单面板即可】</strong></p><p>注入单面板&#x2F;双面板都行 都是注入xipro的意思</p><p>为什么会出现单双面版？</p><p><strong>因为以前xipro是有任务分面板的 但是已经更新了就不再使用单双面板了</strong> </p><p>当出现控制台为下图时 代表注入成功：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171401153.png"></p><h3 id="操作方式"><a href="#操作方式" class="headerlink" title="操作方式"></a>操作方式</h3><p><strong>图片说明：</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171405737.png"></p><p><strong>文字说明：</strong></p><p><strong>小键盘 * 呼出&#x2F;隐藏菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><h3 id="XiPro快捷键"><a href="#XiPro快捷键" class="headerlink" title="XiPro快捷键"></a>XiPro快捷键</h3><p><strong>默认快捷键</strong>：</p><table><thead><tr><th align="center"><strong>F3黄点传送</strong></th><th align="center"><strong>F4紫点传送</strong></th><th align="center"><strong>F5向前闪现一段距离（带穿越实体功能）</strong></th></tr></thead><tbody><tr><td align="center"><strong>F6跳出黑屏</strong></td><td align="center"><strong>F7虎鲸传送</strong></td><td align="center"><strong>INS跳过动画</strong></td></tr><tr><td align="center"><strong>END卸载菜单</strong></td><td align="center"></td><td align="center"></td></tr></tbody></table><p><strong>自定义快捷键</strong>：</p><p>先选择一个你想设定的功能</p><p>假设如图选中 <strong>无敌</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171448163.png"></p><p>键盘上按 <strong>K</strong> 编辑快捷键 会出现下图 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171448164.png"></p><p>VK键值可以参照下图：<br><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171448165.png"></p><h3 id="XiPro解绑"><a href="#XiPro解绑" class="headerlink" title="XiPro解绑"></a>XiPro解绑</h3><p>为什么要解绑：</p><p><strong>在使用辅助时 辅助和该电脑绑定 这就限定在一段时间内只能在该电脑使用辅助 你想要在别的电脑使用就必须去解绑</strong></p><p>XiPro需不需要解绑？</p><p><strong>不用解绑</strong></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>在这里说明一下 </p><p>幻影官方的卡密形式已经统一改成:</p><p><code>账号/Login：pxau_</code> <code>密码/password:</code></p><p>直接使用账号密码进行安装注入即可 无需注册激活</p><p><strong>【保存好你购买的幻影账号密码，若丢失无法找回】</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205181438530.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205181438533.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击注入即可】</strong></p><p>出现下图代表注入成功：</p><h3 id="操作方式："><a href="#操作方式：" class="headerlink" title="操作方式："></a>操作方式：</h3><p><strong>文字说明：</strong></p><p><strong>F5 呼出&#x2F;隐藏 菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><h3 id="幻影快捷键："><a href="#幻影快捷键：" class="headerlink" title="幻影快捷键："></a>幻影快捷键：</h3><p>自定义快捷键：</p><p>先选择一个你想设定的功能</p><p>假设如图选中 <strong>无敌</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205181449236.png"></p><p>按 <strong>F12</strong> 然后 按 <strong>Z</strong> </p><p>会弹出 <strong>SUCCESSFULLY INSTALLED</strong> 的提示框</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205181450239.png"></p><p>说明快捷键设置成功 现在按 <strong>Z</strong> 就是快捷键 开启&#x2F;关闭无敌</p><p>如果不想设置了 可以按 <strong>DEL</strong> 删除</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
       
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Xf</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Xf/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Xf/</id>
-    <published>2022-05-14T10:56:59.000Z</published>
-    <updated>2022-05-17T06:54:58.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>delusion（妄想）{Antigrind}</title>
-    <link href="https://berserker-god.github.io/2022/05/14/delusion%EF%BC%88%E5%A6%84%E6%83%B3%EF%BC%89-Antigrind/"/>
-    <id>https://berserker-god.github.io/2022/05/14/delusion%EF%BC%88%E5%A6%84%E6%83%B3%EF%BC%89-Antigrind/</id>
-    <published>2022-05-14T10:56:42.000Z</published>
-    <updated>2022-05-14T10:56:44.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Sasavn</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Sasavn/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Sasavn/</id>
-    <published>2022-05-14T10:55:40.000Z</published>
-    <updated>2022-05-14T10:55:42.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Raiden（雷电）</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Raiden%EF%BC%88%E9%9B%B7%E7%94%B5%EF%BC%89/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Raiden%EF%BC%88%E9%9B%B7%E7%94%B5%EF%BC%89/</id>
-    <published>2022-05-14T10:55:22.000Z</published>
-    <updated>2022-05-17T06:54:48.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>毒液</title>
-    <link href="https://berserker-god.github.io/2022/05/14/%E6%AF%92%E6%B6%B2/"/>
-    <id>https://berserker-god.github.io/2022/05/14/%E6%AF%92%E6%B6%B2/</id>
-    <published>2022-05-14T10:55:05.000Z</published>
-    <updated>2022-05-14T10:55:06.000Z</updated>
-    
     
     
     
@@ -160,35 +58,20 @@
   </entry>
   
   <entry>
-    <title>Nightfall（黄昏）</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Nightfall%EF%BC%88%E9%BB%84%E6%98%8F%EF%BC%89/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Nightfall%EF%BC%88%E9%BB%84%E6%98%8F%EF%BC%89/</id>
-    <published>2022-05-14T10:54:49.000Z</published>
-    <updated>2022-05-17T07:38:36.000Z</updated>
+    <title>毒液</title>
+    <link href="https://berserker-god.github.io/2022/05/17/%E6%AF%92%E6%B6%B2/"/>
+    <id>https://berserker-god.github.io/2022/05/17/%E6%AF%92%E6%B6%B2/</id>
+    <published>2022-05-17T14:53:57.360Z</published>
+    <updated>2022-05-18T06:09:57.867Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>本次注册激活需要在黄昏官网上进行</p><p>进入黄昏的官网注册账号并激活：</p><p><strong>黄昏注册链接：</strong><a href="https://nightfall.menu/register">https://nightfall.menu/register</a></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171505639.png"></p><p><strong>再次提醒 密保就是那个安全问题 务必记住答案</strong></p><p><strong>用途：找回密码必备</strong></p><p>登录刚才注册的账号 利用在卡网购买的激活码激活账号</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171507091.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171505640.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171511844.png"></p><p><strong>注册激活到此结束</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517751.png"></p><p>打开游戏 进入故事模式 如下图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517752.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击注入即可】</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517753.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517754.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517103.png"></p><p>出现下图代表注入成功：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171521333.png"></p><h3 id="操作方式："><a href="#操作方式：" class="headerlink" title="操作方式："></a>操作方式：</h3><p>图片说明：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171405737.png"></p><p>文字说明：</p><p><strong>小键盘 * 呼出&#x2F;隐藏菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><h3 id="黄昏快捷键"><a href="#黄昏快捷键" class="headerlink" title="黄昏快捷键"></a>黄昏快捷键</h3><p>自定义快捷键：</p><p>**选择你想要设置快捷键的选项 **</p><p><strong>按F11 按下你想设置快捷键的按键，回车确定即可</strong></p><h3 id="黄昏解绑"><a href="#黄昏解绑" class="headerlink" title="黄昏解绑"></a>黄昏解绑</h3><p>为什么要解绑：</p><p><strong>在使用辅助时 辅助和该电脑绑定 这就限定在一段时间内只能在该电脑使用辅助 你想要在别的电脑使用就必须去解绑</strong></p><p>黄昏需不需要解绑？</p><p><strong>需要，解绑方式：官网手动解绑 冷却时间：48小时</strong></p><p>登录黄昏官网到仪表盘：<a href="https://nightfall.menu/login">https://nightfall.menu/login</a></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171534930.png"></p><h3 id="黄昏安装自定义脚本（Lua）-拓展功能"><a href="#黄昏安装自定义脚本（Lua）-拓展功能" class="headerlink" title="黄昏安装自定义脚本（Lua）-拓展功能"></a>黄昏安装自定义脚本（Lua）-拓展功能</h3><p>使用小埋安装器注入菜单后</p><p>如下图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528437.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528438.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528439.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528440.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528436.png"></p><p>即可看到任务面板：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171529079.png"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
       
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Midnight（午夜）</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Midnight%EF%BC%88%E5%8D%88%E5%A4%9C%EF%BC%89/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Midnight%EF%BC%88%E5%8D%88%E5%A4%9C%EF%BC%89/</id>
-    <published>2022-05-14T10:54:32.000Z</published>
-    <updated>2022-05-14T10:54:34.000Z</updated>
-    
     
     
     
@@ -197,11 +80,229 @@
   
   <entry>
     <title>表演者</title>
-    <link href="https://berserker-god.github.io/2022/05/14/%E8%A1%A8%E6%BC%94%E8%80%85/"/>
-    <id>https://berserker-god.github.io/2022/05/14/%E8%A1%A8%E6%BC%94%E8%80%85/</id>
-    <published>2022-05-14T10:53:55.000Z</published>
-    <updated>2022-05-14T10:53:56.000Z</updated>
+    <link href="https://berserker-god.github.io/2022/05/17/%E8%A1%A8%E6%BC%94%E8%80%85/"/>
+    <id>https://berserker-god.github.io/2022/05/17/%E8%A1%A8%E6%BC%94%E8%80%85/</id>
+    <published>2022-05-17T14:53:57.356Z</published>
+    <updated>2022-05-18T06:09:59.792Z</updated>
     
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>XiPro</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Xipro/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Xipro/</id>
+    <published>2022-05-17T14:53:57.353Z</published>
+    <updated>2022-05-18T06:55:18.838Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>本次注册激活需要在XiPro软件上进行</p><p>XiPro软件下载地址：<a href="https://wwr.lanzoui.com/b02ib4hng">https://wwr.lanzoui.com/b02ib4hng</a></p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170045449.png"></p><p>下载 解压出来 打开 <strong>XiPro.exe</strong> (后缀名为exe的应用程序)</p><p>点击 <strong>注册账号</strong></p><p>如图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051512.png"></p><p>按提示填写注册即可</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051513.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051514.png"></p><p>激活码为在卡网购买的卡密  复制粘贴进去即可  账号即你刚刚在辅助上面注册的账号 千万别填错 </p><p>卡密是一次性的  充错了就没了</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170051515.png"></p><p><strong>注册激活到此结束</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170057986.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205170057987.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击注入单面板即可】</strong></p><p>注入单面板&#x2F;双面板都行 都是注入xipro的意思</p><p>为什么会出现单双面版？</p><p><strong>因为以前xipro是有任务分面板的 但是已经更新了就不再使用单双面板了</strong> </p><p>当出现控制台为下图时 代表注入成功：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171401153.png"></p><h3 id="操作方式"><a href="#操作方式" class="headerlink" title="操作方式"></a>操作方式</h3><p><strong>图片说明：</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171405737.png"></p><p><strong>文字说明：</strong></p><p><strong>小键盘 * 呼出&#x2F;隐藏 菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><h3 id="XiPro快捷键"><a href="#XiPro快捷键" class="headerlink" title="XiPro快捷键"></a>XiPro快捷键</h3><p><strong>默认快捷键</strong>：</p><table><thead><tr><th align="center"><strong>F3黄点传送</strong></th><th align="center"><strong>F4紫点传送</strong></th><th align="center"><strong>F5向前闪现一段距离（带穿越实体功能）</strong></th></tr></thead><tbody><tr><td align="center"><strong>F6跳出黑屏</strong></td><td align="center"><strong>F7虎鲸传送</strong></td><td align="center"><strong>INS跳过动画</strong></td></tr><tr><td align="center"><strong>END卸载菜单</strong></td><td align="center"></td><td align="center"></td></tr></tbody></table><p><strong>自定义快捷键</strong>：</p><p>先选择一个你想设定的功能</p><p>假设如图选中 <strong>无敌</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171448163.png"></p><p>键盘上按 <strong>K</strong> 编辑快捷键 会出现下图 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171448164.png"></p><p>VK键值可以参照下图：<br><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171448165.png"></p><h3 id="XiPro解绑"><a href="#XiPro解绑" class="headerlink" title="XiPro解绑"></a>XiPro解绑</h3><p>为什么要解绑：</p><p><strong>在使用辅助时 辅助和该电脑绑定 这就限定在一段时间内只能在该电脑使用辅助 你想要在别的电脑使用就必须去解绑</strong></p><p>XiPro需不需要解绑？</p><p><strong>不用解绑</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Xf</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Xf/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Xf/</id>
+    <published>2022-05-17T14:53:57.351Z</published>
+    <updated>2022-05-18T06:09:31.916Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Stand</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Stand/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Stand/</id>
+    <published>2022-05-17T14:53:57.348Z</published>
+    <updated>2022-05-18T06:09:33.786Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sasavn</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Sasavn/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Sasavn/</id>
+    <published>2022-05-17T14:53:57.346Z</published>
+    <updated>2022-05-18T06:09:37.277Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Raiden（雷电）</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Raiden%EF%BC%88%E9%9B%B7%E7%94%B5%EF%BC%89/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Raiden%EF%BC%88%E9%9B%B7%E7%94%B5%EF%BC%89/</id>
+    <published>2022-05-17T14:53:57.343Z</published>
+    <updated>2022-05-18T06:09:39.006Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Nightfall（黄昏）</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Nightfall%EF%BC%88%E9%BB%84%E6%98%8F%EF%BC%89/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Nightfall%EF%BC%88%E9%BB%84%E6%98%8F%EF%BC%89/</id>
+    <published>2022-05-17T14:53:57.341Z</published>
+    <updated>2022-05-18T06:09:42.577Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>本次注册激活需要在黄昏官网上进行</p><p>进入黄昏的官网注册账号并激活：</p><p><strong>黄昏注册链接：</strong><a href="https://nightfall.menu/register">https://nightfall.menu/register</a></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171505639.png"></p><p><strong>再次提醒 密保就是那个安全问题 务必记住答案</strong></p><p><strong>用途：找回密码必备</strong></p><p>登录刚才注册的账号 利用在卡网购买的激活码激活账号</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171507091.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171505640.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171511844.png"></p><p><strong>注册激活到此结束</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517751.png"></p><p>打开游戏 进入故事模式 如下图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517752.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击注入即可】</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517753.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517754.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171517103.png"></p><p>出现下图代表注入成功：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171521333.png"></p><h3 id="操作方式："><a href="#操作方式：" class="headerlink" title="操作方式："></a>操作方式：</h3><p>图片说明：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171405737.png"></p><p>文字说明：</p><p><strong>小键盘 * 呼出&#x2F;隐藏菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><h3 id="黄昏快捷键"><a href="#黄昏快捷键" class="headerlink" title="黄昏快捷键"></a>黄昏快捷键</h3><p>自定义快捷键：</p><p>**选择你想要设置快捷键的选项 **</p><p><strong>按F11 按下你想设置快捷键的按键，回车确定即可</strong></p><h3 id="黄昏解绑"><a href="#黄昏解绑" class="headerlink" title="黄昏解绑"></a>黄昏解绑</h3><p>为什么要解绑：</p><p><strong>在使用辅助时 辅助和该电脑绑定 这就限定在一段时间内只能在该电脑使用辅助 你想要在别的电脑使用就必须去解绑</strong></p><p>黄昏需不需要解绑？</p><p><strong>需要，解绑方式：官网手动解绑 冷却时间：48小时</strong></p><p>登录黄昏官网到仪表盘：<a href="https://nightfall.menu/login">https://nightfall.menu/login</a></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171534930.png"></p><h3 id="黄昏安装自定义脚本（Lua）-拓展功能"><a href="#黄昏安装自定义脚本（Lua）-拓展功能" class="headerlink" title="黄昏安装自定义脚本（Lua）-拓展功能"></a>黄昏安装自定义脚本（Lua）-拓展功能</h3><p>使用小埋安装器注入菜单后</p><p>如下图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528437.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528438.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528439.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528440.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171528436.png"></p><p>即可看到任务面板：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171529079.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Midnight（午夜）</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Midnight%EF%BC%88%E5%8D%88%E5%A4%9C%EF%BC%89/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Midnight%EF%BC%88%E5%8D%88%E5%A4%9C%EF%BC%89/</id>
+    <published>2022-05-17T14:53:57.338Z</published>
+    <updated>2022-05-18T06:09:44.711Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Kevin</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Kevin/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Kevin/</id>
+    <published>2022-05-17T14:53:57.336Z</published>
+    <updated>2022-05-18T06:09:46.779Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ethereal（空灵）</title>
+    <link href="https://berserker-god.github.io/2022/05/17/Ethereal%EF%BC%88%E7%A9%BA%E7%81%B5%EF%BC%89/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Ethereal%EF%BC%88%E7%A9%BA%E7%81%B5%EF%BC%89/</id>
+    <published>2022-05-17T14:53:57.333Z</published>
+    <updated>2022-05-18T06:09:48.748Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>delusion（妄想）{Antigrind}</title>
+    <link href="https://berserker-god.github.io/2022/05/17/delusion%EF%BC%88%E5%A6%84%E6%83%B3%EF%BC%89-Antigrind/"/>
+    <id>https://berserker-god.github.io/2022/05/17/delusion%EF%BC%88%E5%A6%84%E6%83%B3%EF%BC%89-Antigrind/</id>
+    <published>2022-05-17T14:53:57.331Z</published>
+    <updated>2022-05-18T06:09:50.689Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
     
     
     
@@ -210,11 +311,40 @@
   
   <entry>
     <title>Darkstar（暗星）</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Darkstar%EF%BC%88%E6%9A%97%E6%98%9F%EF%BC%89/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Darkstar%EF%BC%88%E6%9A%97%E6%98%9F%EF%BC%89/</id>
-    <published>2022-05-14T10:53:46.000Z</published>
-    <updated>2022-05-14T10:53:48.000Z</updated>
+    <link href="https://berserker-god.github.io/2022/05/17/Darkstar%EF%BC%88%E6%9A%97%E6%98%9F%EF%BC%89/"/>
+    <id>https://berserker-god.github.io/2022/05/17/Darkstar%EF%BC%88%E6%9A%97%E6%98%9F%EF%BC%89/</id>
+    <published>2022-05-17T14:53:57.328Z</published>
+    <updated>2022-05-18T06:09:52.445Z</updated>
     
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2T</title>
+    <link href="https://berserker-god.github.io/2022/05/17/2Take1/"/>
+    <id>https://berserker-god.github.io/2022/05/17/2Take1/</id>
+    <published>2022-05-17T14:53:57.324Z</published>
+    <updated>2022-05-18T06:54:52.567Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>本次注册激活需要在2T官网上进行</p><p>进入2take1的官网注册账号并激活：</p><p><strong>2T注册链接：</strong><a href="https://2take1.menu/register">https://2take1.menu/register</a></p><p>注册激活账号 填写用户名(<strong>Username</strong>)和邮箱(<strong>Email</strong>)  建议账号和密码都不带符号</p><p>输入验证码，打勾同意协议。</p><p>点Submit(提交)注册。</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923723.png"></p><p>如图为注册成功 等待邮箱点击链接确认激活即可：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923728.png"></p><p>前往你所绑定的邮箱  你的邮箱将会收到一封验证信（<strong>收不到可以查收垃圾箱里面</strong>)  </p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923726.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923727.png"></p><p>这里收到邮件需要点时间 正常5分钟之内就能收到了</p><p>点击链接后跳转到下图的设置登陆密码， 两行分别是密码和重复密码。 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923729.png"></p><p>登陆账户，如图输入自己注册的用户名和密码，点Submit登陆。   </p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161929638.png"></p><p>登录进来后 点击右下角的蓝色按钮（<strong>Redeem A Code</strong>）如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161930447.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923724.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923725.png"></p><p><strong>注册激活到此结束</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171518270.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923733.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击启动即可】</strong></p><p>点击启动VIP版后 会出现下图 如图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923734.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923735.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923736.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923737.png"></p><p>出现下图代表注入成功：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923738.png"></p><p><strong>安装注入到此结束</strong></p><h3 id="操作方式"><a href="#操作方式" class="headerlink" title="操作方式"></a>操作方式</h3><p><strong>图片说明：</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923730.png"></p><p><strong>文字说明：</strong></p><p><strong>小键盘 - 呼出&#x2F;隐藏 菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><p><strong>向左切换选项卡：7</strong></p><p><strong>向右切换选项卡：9</strong></p><h3 id="2T快捷键"><a href="#2T快捷键" class="headerlink" title="2T快捷键"></a>2T快捷键</h3><p><strong>默认快捷键</strong>：</p><table><thead><tr><th align="center">按住F12 2秒后会卸载菜单</th></tr></thead><tbody><tr><td align="center"><strong>F9保存设置</strong></td></tr></tbody></table><p><strong>自定义快捷键</strong>：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923731.png"></p><h3 id="2T解绑"><a href="#2T解绑" class="headerlink" title="2T解绑"></a>2T解绑</h3><p>为什么要解绑：</p><p><strong>在使用辅助时 辅助和该电脑绑定 这就限定在一段时间内只能在该电脑使用辅助 你想要在别的电脑使用就必须去解绑</strong></p><p>2T需不需要解绑？</p><p><strong>需要，解绑方式：下线12小时自动解绑</strong></p><h3 id="2T安装自定义脚本（Lua）-拓展功能"><a href="#2T安装自定义脚本（Lua）-拓展功能" class="headerlink" title="2T安装自定义脚本（Lua）-拓展功能"></a>2T安装自定义脚本（Lua）-拓展功能</h3><p>利用快捷键 <strong>WIN+R</strong> 输入 <code>%AppData%</code><br>接着按照 <strong>PopstarDevs&gt;2Take1Menu&gt;scripts</strong> 的顺序找到下图文件夹</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923741.png"></p><p>放好Lua文件后 上游戏注入菜单 点击 <strong>Lua脚本</strong> 选项 勾选 <strong>安全模式</strong>（防止部分脚本使你封号）</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923740.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162322799.png"></p><p>然后返回 点击 <strong>脚本功能</strong> 有对应加载的Lua名字 点击进去 就有相应的功能了</p><h3 id="2T安装自定义主题"><a href="#2T安装自定义主题" class="headerlink" title="2T安装自定义主题"></a>2T安装自定义主题</h3><h4 id="自定义2T标题-dds图片"><a href="#自定义2T标题-dds图片" class="headerlink" title="自定义2T标题-dds图片"></a>自定义2T标题-dds图片</h4><p>群文件 <strong>2Take1 主题</strong> 下载主题相关文件</p><p>利用快捷键 <strong>WIN+R</strong> 输入 <code>%AppData%</code></p><p>接着按照 <strong>PopstarDevs&gt;2Take1Menu&gt;ui&gt;headers</strong> 的顺序</p><p>将后缀名为 **dds **图片放入下图文件夹中:</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334439.png"></p><p>上游戏注入菜单 如下图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334433.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334434.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334435.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334436.png"></p><h4 id="自定义2T字体-x2F-标题-x2F-配置文件-压缩包"><a href="#自定义2T字体-x2F-标题-x2F-配置文件-压缩包" class="headerlink" title="自定义2T字体&#x2F;标题&#x2F;配置文件-压缩包"></a>自定义2T字体&#x2F;标题&#x2F;配置文件-压缩包</h4><p>群文件 <strong>2Take1 主题</strong> 下载主题相关文件</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334437.png"></p><p>利用快捷键 <strong>WIN+R</strong> 输入 <code>%AppData%</code></p><p>接着按照 <strong>PopstarDevs&gt;2Take1Menu</strong> 的顺序找到下图文件夹：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334441.png"></p><p>将压缩包里的所有文件放进去</p><p>然后上游戏注入菜单 点击 <strong>菜单设置</strong> 选项 往下拉到 <strong>配置文件</strong> 如图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334438.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334440.png"></p><p>点击一下 <strong>Load（加载）</strong>即可</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
     
     
     
@@ -223,98 +353,22 @@
   
   <entry>
     <title>0x</title>
-    <link href="https://berserker-god.github.io/2022/05/14/0x/"/>
-    <id>https://berserker-god.github.io/2022/05/14/0x/</id>
-    <published>2022-05-14T10:53:28.000Z</published>
-    <updated>2022-05-17T12:18:39.246Z</updated>
+    <link href="https://berserker-god.github.io/2022/05/17/0x/"/>
+    <id>https://berserker-god.github.io/2022/05/17/0x/</id>
+    <published>2022-05-17T10:25:47.666Z</published>
+    <updated>2022-05-18T06:09:26.004Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ethereal（空灵）</title>
-    <link href="https://berserker-god.github.io/2022/05/14/Ethereal%EF%BC%88%E7%A9%BA%E7%81%B5%EF%BC%89/"/>
-    <id>https://berserker-god.github.io/2022/05/14/Ethereal%EF%BC%88%E7%A9%BA%E7%81%B5%EF%BC%89/</id>
-    <published>2022-05-14T10:53:13.000Z</published>
-    <updated>2022-05-14T10:53:14.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>幻影（phantom）</title>
-    <link href="https://berserker-god.github.io/2022/05/13/%E5%B9%BB%E5%BD%B1%EF%BC%88phantom%EF%BC%89/"/>
-    <id>https://berserker-god.github.io/2022/05/13/%E5%B9%BB%E5%BD%B1%EF%BC%88phantom%EF%BC%89/</id>
-    <published>2022-05-13T15:07:43.000Z</published>
-    <updated>2022-05-17T05:57:12.000Z</updated>
-    
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Stand</title>
-    <link href="https://berserker-god.github.io/2022/05/13/Stand/"/>
-    <id>https://berserker-god.github.io/2022/05/13/Stand/</id>
-    <published>2022-05-13T15:07:19.000Z</published>
-    <updated>2022-05-17T06:55:06.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程主页-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>教程主页&gt;分类&gt;三个要求</strong></p><p>点击下方按钮快速跳回主页：</p><div class="tag-plugin navbar"><nav class="cap"><a href="/">教程主页</a></nav></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
+    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程主页-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
       
     
     
     
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2T</title>
-    <link href="https://berserker-god.github.io/2022/05/13/2Take1/"/>
-    <id>https://berserker-god.github.io/2022/05/13/2Take1/</id>
-    <published>2022-05-13T15:07:03.000Z</published>
-    <updated>2022-05-17T07:24:30.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="必看"><a href="#必看" class="headerlink" title="必看"></a>必看</h3><p>请一定要去看完<strong>教程-三个要求</strong> 完成里面的所有操作后 再来看这里的使用教程 </p><p><strong>三个要求</strong> 位置顺序：<strong>主页&gt;归档&gt;三个要求</strong></p><h3 id="注册激活"><a href="#注册激活" class="headerlink" title="注册激活"></a>注册激活</h3><p>本次注册激活需要在2T官网上进行</p><p>进入2take1的官网注册账号并激活：</p><p><strong>2T注册链接：</strong><a href="https://2take1.menu/register">https://2take1.menu/register</a></p><p>注册激活账号 填写用户名(<strong>Username</strong>)和邮箱(<strong>Email</strong>)  建议账号和密码都不带符号</p><p>输入验证码，打勾同意协议。</p><p>点Submit(提交)注册。</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923723.png"></p><p>如图为注册成功 等待邮箱点击链接确认激活即可：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923728.png"></p><p>前往你所绑定的邮箱  你的邮箱将会收到一封验证信（<strong>收不到可以查收垃圾箱里面</strong>)  </p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923726.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923727.png"></p><p>这里收到邮件需要点时间 正常5分钟之内就能收到了</p><p>点击链接后跳转到下图的设置登陆密码， 两行分别是密码和重复密码。 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923729.png"></p><p>登陆账户，如图输入自己注册的用户名和密码，点Submit登陆。   </p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161929638.png"></p><p>登录进来后 点击右下角的蓝色按钮（<strong>Redeem A Code</strong>）如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161930447.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923724.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923725.png"></p><p><strong>注册激活到此结束</strong></p><h3 id="安装注入"><a href="#安装注入" class="headerlink" title="安装注入"></a>安装注入</h3><p>如果你到现在还不知道在哪里下载 请返回教程主页 点击 <strong>归档</strong> 找到 <strong>三个要求</strong> 完成里面的所有操作 里面有下载链接</p><p>再来到这里进行下一步</p><p>打开小埋安装器 </p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205171518270.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923733.png"></p><p><strong>【安装只需要一遍，下次使用，直接点击启动即可】</strong></p><p>点击启动VIP版后 会出现下图 如图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923734.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923735.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923736.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923737.png"></p><p>出现下图代表注入成功：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923738.png"></p><p><strong>安装注入到此结束</strong></p><h3 id="操作方式"><a href="#操作方式" class="headerlink" title="操作方式"></a>操作方式</h3><p><strong>图片说明：</strong></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923730.png"></p><p><strong>文字说明：</strong></p><p><strong>小键盘 - 呼出&#x2F;隐藏菜单</strong></p><p><strong>上：小键盘8</strong></p><p><strong>下：小键盘2</strong></p><p><strong>左：小键盘4</strong></p><p><strong>右：小键盘6</strong></p><p><strong>确认：小键盘5</strong></p><p><strong>返回：小键盘0</strong></p><p><strong>向左切换选项卡：7</strong></p><p><strong>向右切换选项卡：9</strong></p><h3 id="2T快捷键"><a href="#2T快捷键" class="headerlink" title="2T快捷键"></a>2T快捷键</h3><p><strong>默认快捷键</strong>：</p><table><thead><tr><th align="center">按住F12 2秒后会卸载菜单</th></tr></thead><tbody><tr><td align="center"><strong>F9保存设置</strong></td></tr></tbody></table><p><strong>自定义快捷键</strong>：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923731.png"></p><h3 id="2T解绑"><a href="#2T解绑" class="headerlink" title="2T解绑"></a>2T解绑</h3><p>为什么要解绑：</p><p><strong>在使用辅助时 辅助和该电脑绑定 这就限定在一段时间内只能在该电脑使用辅助 你想要在别的电脑使用就必须去解绑</strong></p><p>2T需不需要解绑？</p><p><strong>需要，解绑方式：下线12小时自动解绑</strong></p><h3 id="2T安装自定义脚本（Lua）-拓展功能"><a href="#2T安装自定义脚本（Lua）-拓展功能" class="headerlink" title="2T安装自定义脚本（Lua）-拓展功能"></a>2T安装自定义脚本（Lua）-拓展功能</h3><p>利用快捷键 <strong>WIN+R</strong> 输入 <code>%AppData%</code><br>接着按照 <strong>PopstarDevs&gt;2Take1Menu&gt;scripts</strong> 的顺序找到下图文件夹</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923741.png"></p><p>放好Lua文件后 上游戏注入菜单 点击 <strong>Lua脚本</strong> 选项 勾选 <strong>安全模式</strong>（防止部分脚本使你封号）</p><p>如图：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205161923740.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162322799.png"></p><p>然后返回 点击 <strong>脚本功能</strong> 有对应加载的Lua名字 点击进去 就有相应的功能了</p><h3 id="2T安装自定义主题"><a href="#2T安装自定义主题" class="headerlink" title="2T安装自定义主题"></a>2T安装自定义主题</h3><h4 id="自定义2T标题-dds图片"><a href="#自定义2T标题-dds图片" class="headerlink" title="自定义2T标题-dds图片"></a>自定义2T标题-dds图片</h4><p>群文件 <strong>2Take1 主题</strong> 下载主题相关文件</p><p>利用快捷键 <strong>WIN+R</strong> 输入 <code>%AppData%</code></p><p>接着按照 <strong>PopstarDevs&gt;2Take1Menu&gt;ui&gt;headers</strong> 的顺序</p><p>将后缀名为 **dds **图片放入下图文件夹中:</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334439.png"></p><p>上游戏注入菜单 如下图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334433.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334434.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334435.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334436.png"></p><h4 id="自定义2T字体-x2F-标题-x2F-配置文件-压缩包"><a href="#自定义2T字体-x2F-标题-x2F-配置文件-压缩包" class="headerlink" title="自定义2T字体&#x2F;标题&#x2F;配置文件-压缩包"></a>自定义2T字体&#x2F;标题&#x2F;配置文件-压缩包</h4><p>群文件 <strong>2Take1 主题</strong> 下载主题相关文件</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334437.png"></p><p>利用快捷键 <strong>WIN+R</strong> 输入 <code>%AppData%</code></p><p>接着按照 <strong>PopstarDevs&gt;2Take1Menu</strong> 的顺序找到下图文件夹：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334441.png"></p><p>将压缩包里的所有文件放进去</p><p>然后上游戏注入菜单 点击 <strong>菜单设置</strong> 选项 往下拉到 <strong>配置文件</strong> 如图操作：</p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334438.png"></p><p><img src="https://xiaomai-1307634583.cos.ap-guangzhou.myqcloud.com/pic/202205162334440.png"></p><p>点击一下 <strong>Load（加载）</strong>即可</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h3 id=&quot;必看&quot;&gt;&lt;a href=&quot;#必看&quot; class=&quot;headerlink&quot; title=&quot;必看&quot;&gt;&lt;/a&gt;必看&lt;/h3&gt;&lt;p&gt;请一定要去看完&lt;strong&gt;教程-三个要求&lt;/strong&gt; 完成里面的所有操作后 再来看这里的使用教程 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="GTA5" scheme="https://berserker-god.github.io/tags/GTA5/"/>
     
   </entry>
   
