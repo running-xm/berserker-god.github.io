@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://berserker-god.github.io/2022/05/17/Stand/</loc>
+    
+    <lastmod>2022-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://berserker-god.github.io/2022/05/17/0x/</loc>
+    
+    <lastmod>2022-05-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://berserker-god.github.io/2022/05/17/Darkstar%EF%BC%88%E6%9A%97%E6%98%9F%EF%BC%89/</loc>
     
     <lastmod>2022-05-19</lastmod>
@@ -12,15 +30,6 @@
   
   <url>
     <loc>https://berserker-god.github.io/2022/05/17/Nightfall%EF%BC%88%E9%BB%84%E6%98%8F%EF%BC%89/</loc>
-    
-    <lastmod>2022-05-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://berserker-god.github.io/2022/05/17/0x/</loc>
     
     <lastmod>2022-05-19</lastmod>
     
@@ -120,15 +129,6 @@
   
   <url>
     <loc>https://berserker-god.github.io/2022/05/17/Sasavn/</loc>
-    
-    <lastmod>2022-05-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://berserker-god.github.io/2022/05/17/Stand/</loc>
     
     <lastmod>2022-05-18</lastmod>
     
